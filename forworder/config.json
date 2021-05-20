@@ -1,6 +1,6 @@
 {
   "name": "Forwarder",
-  "version": "0.34",
+  "version": "0.35",
   "url": "https://github.com/M4D1NG3R/hassio-addons",
   "slug": "forwarder",
   "startup": "application",
