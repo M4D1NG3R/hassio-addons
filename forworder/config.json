@@ -1,0 +1,11 @@
+{
+  "name": "Forwarder",
+  "version": "0.1",
+  "url": "https://github.com/M4D1NG3R/hassio-addons",
+  "slug": "forwarder",
+  "startup": "application",
+  "description": "Forwarder testing",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "ingress": true,
+  "host_network": false
+}
